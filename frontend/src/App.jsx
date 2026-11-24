@@ -89,7 +89,7 @@ function App() {
     <div className="app-shell">
       <header className="app-header">
         <div>
-          <p className="app-eyebrow">JSON Storage · REST API</p>
+          <p className="app-eyebrow">Mern curd App</p>
           <h1>Posts CRUD Manager</h1>
         </div>
         <button
